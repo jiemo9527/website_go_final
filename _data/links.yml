@@ -1,0 +1,360 @@
+- categories:
+#    谷歌
+  - name: 谷歌
+    links:
+    - name: Google
+      style: white
+      url: https://www.google.com
+
+    - name: 谷歌翻译
+      style: blue
+      url: https://translate.google.com/?sl=auto&tl=en&op=translate
+
+    - name: Google Drive
+      style: green
+      url: https://drive.google.com
+
+    - name: Google Script
+      style: orange
+      url: https://script.google.com
+
+    - name: Gmail
+      style: red
+      url: https://mail.google.com
+
+    - name: Google相册
+      style: grey
+      url: https://photos.google.com
+
+    - name: google应用店
+      style: blue
+      url: https://chrome.google.com/webstore/category/extensions?hl=zh
+
+    - name: Google Voice
+      style: green
+      url: https://voice.google.com/
+#    专属
+  - name: web服务
+    links:
+    - name: 短网址
+      style: orange
+      url: https://jie02.top
+
+    - name: Jellyfin
+      style: purple
+      url: http://1.cc.jie02.link:8096
+
+    - name: Alist
+      style: green
+      url: https://alist.jie02.top
+
+    - name: FDM
+      style: blue
+      url: https://fdm.jie02.top
+
+    - name: cors
+      style: white
+      url: https://cors.jie02.top
+
+    - name: 捐赠②
+      style: blue
+      url: https://donate.jie02.top
+
+    - name: JIE's dev blog
+      style: black
+      url: https://blog.jie02.top
+
+    - name: JIE's 网赚分享
+      style: blue
+      url: https://wool.jie02.top
+#    工具
+  - name: 工具
+    links:
+    - name: Openai
+      style: black
+      url: https://chat.openai.com/chat
+
+    - name: Bard
+      style: blue
+      url: https://bard.google.com/chat
+
+    - name: claude
+      style: dark
+      url: https://claude.ai/chats
+
+    - name: 维基百科
+      icon: wikipedia w black
+      style: basic
+      url: https://www.wikipedia.org/
+
+    - name: FOFA
+      style: green
+      url: https://fofa.info
+
+    - name: 阿里语音交互
+      style: orange
+      url: https://nls-portal.console.aliyun.com/app/265344/11111111111?appkey=4BNzO0ieqTYUR29q
+
+    - name: Base64
+      style: light blue
+      url: https://base64.us
+
+    - name: zapier
+      style: blue
+      url: https://zapier.com/app/zaps
+
+    - name: 芝麻代理
+      style: black
+      url: https://www.zmhttp.com/index/
+
+    - name: 网易邮箱
+      icon: envelope red
+      style: basic
+      url: https://email.163.com/
+
+    - name: 网站测速
+      style: yellow
+      url: https://www.itdog.cn/http/
+
+    - name: 短信虚拟接收
+      style: orange
+      url: https://sms-activate.org
+
+    - name: 快递查询
+      icon: truck olive
+      style: basic
+      url: https://kuaidi100.com/
+
+#    社交
+  - name: 社交
+    links:
+    - name: 微博
+      icon: weibo red
+      style: basic
+      url: https://weibo.com/
+
+    - name: 微信网页版
+      icon: weixin green
+      style: basic
+      url: https://wx.qq.com/
+
+    - name: 恩山论坛
+      style: blue
+      url: https://www.right.com.cn/forum/forum.php
+
+    - name: 吾爱破解
+      style: pink
+      url: https://www.52pojie.cn/
+
+    - name: 一加社区
+      style: red
+      url: https://www.oneplusbbs.com/forum-118-1.html
+
+    - name: 百度贴吧
+      icon: paw blue
+      style: basic
+      url: https://tieba.baidu.com/
+
+    - name: 知乎
+      icon: zhihu blue
+      style: basic
+      url: https://www.zhihu.com/
+
+    - name: GitHub
+      icon: github black
+      style: basic
+      url: https://github.com/
+
+
+
+- categories:
+#    购物
+  - name: 购物
+    links:
+    - name: 淘宝
+      style: orange
+      url: https://www.taobao.com/
+
+    - name: 天猫
+      style: red
+      url: https://www.tmall.com/
+
+    - name: 京东
+      style: basic
+      url: https://www.jd.com/
+
+    - name: Amazon
+      icon: amazon yellow
+      style: basic
+      url: https://www.amazon.cn/
+
+    - name: Apple
+      style: basic
+      icon: apple grey
+      url: https://www.apple.com/
+
+    - name: 当当
+      style: pink
+      url: http://www.dangdang.com/
+
+    - name: 严选
+      style: basic
+      url: http://you.163.com/
+
+    - name: UNIQLO
+      style: red
+      url: http://www.uniqlo.cn/
+
+    - name: MUJI
+      style: basic
+      url: http://www.muji.com.cn/
+
+    - name: IKEA
+      style: yellow
+      url: https://www.ikea.cn/
+
+    - name: Decathlon
+      style: blue
+      url: https://www.decathlon.com.cn/
+
+    - name: 大疆
+      style: black
+      url: https://www.dji.com/
+
+    - name: 小米
+      style: orange
+      url: https://www.mi.com/
+
+    - name: 有品
+      style: brown
+      url: https://xiaomiyoupin.com/
+#    影视
+  - name: 影视
+    links:
+    - name: Youtube
+      icon: youtube red
+      style: basic
+      url: https://youtube.com/
+
+    - name: 泥视频
+      style: blue
+      url: https://www.nivod4.tv
+
+    - name: 星视界
+      style: orange
+      url: https://www.histar.tv
+
+    - name: 豆瓣电影
+      icon: film blue
+      style: basic
+      url: https://movie.douban.com/
+
+    - name: 弯弯
+      style: blue
+      url: http://wanwansub.com/
+
+    - name: FIX
+      style: yellow
+      url: https://www.zimuxia.cn/%e6%88%91%e4%bb%ac%e7%9a%84%e4%bd%9c%e5%93%81
+
+    - name: FIX
+      icon: file excel green
+      style: basic
+      url: https://docs.qq.com/sheet/DWk5KcXdUam1XVFhS
+
+    - name: NEW
+      style: basic
+      url: https://nzmz.xyz/tvslist.html
+
+    - name: 团长
+      style: orange
+      url: https://t-rex.tzfile.com/
+
+    - name: 阿哥
+      style: orange
+      url: https://agmov.com/
+
+    - name: 幻樱
+      style: pink
+      url: http://www.hysub.net/
+
+
+#    检测
+  - name: 检测
+    links:
+    - name: IPSukka
+      style: white
+      url: https://ip.skk.moe
+
+    - name: IP.SB
+      style: black
+      url: https://ip.sb
+
+    - name: CF测速
+      style: orange
+      url: https://speed.cloudflare.com
+
+    - name: speedtest.cn
+      style: blue
+      url: https://www.speedtest.cn
+
+    - name: speedtest.net
+      style: black
+      url: https://speedtest.net/
+#    服务器
+  - name: Server
+    links:
+    - name: AWS
+      style: orange
+      url: https://ap-southeast-1.console.aws.amazon.com
+
+    - name: V.PS
+      style: grey
+      url: https://vps.hosting/clientarea/services/san-jose-cloud-kvm-vps/
+
+    - name: CloudCone
+      style: green
+      url: https://app.cloudcone.com/vps/63172/manage
+
+    - name: hYTRON
+      style: white
+      url: https://idc.hytron.io/index.php?rp=/store/hkbgp-standard
+
+    - name: SmartHost
+      style: blue
+      url: https://www.smarthost.net/clientarea.php?action=services
+
+    - name: namesilo
+      style: blue
+      url: https://www.namesilo.com/account_domains.php
+
+    - name: DNSpod
+      style: blue
+      url: https://www.dnspod.cn/login/email
+
+    - name: ping.me
+      style: black
+      url: https://port.ping.pe/
+
+    - name: Netlify
+      style: black
+      url: https://app.netlify.com/account/sites
+
+    - name: 梦牛网络
+      style: green
+      url: https://www.mnn.tw/panel/user/index
+
+    - name: Gcore
+      style: orange
+      url: https://cdn.gcore.com/resources/list
+
+    - name: CloudFlare
+      style: orange
+      url: https://dash.cloudflare.com/8670cbcae63aab68656e85a736601f64
+
+
+
+
+
+
+
