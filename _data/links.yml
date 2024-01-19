@@ -312,10 +312,6 @@
       style: green
       url: https://app.cloudcone.com/vps/63172/manage
 
-    - name: hYTRON
-      style: white
-      url: https://idc.hytron.io/index.php?rp=/store/hkbgp-standard
-
     - name: SmartHost
       style: blue
       url: https://www.smarthost.net/clientarea.php?action=services
@@ -323,6 +319,10 @@
     - name: namesilo
       style: blue
       url: https://www.namesilo.com/account_domains.php
+
+    - name: GoDaddy
+      style: white
+      url: https://dcc.godaddy.com/control/portfolio
 
     - name: DNSpod
       style: blue
