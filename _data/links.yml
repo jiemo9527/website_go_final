@@ -120,10 +120,15 @@
       style: orange
       url: https://sms-activate.org
 
-    - name: 快递查询
+    - name: 17track-查快递
       icon: truck olive
       style: basic
-      url: https://kuaidi100.com/
+      url: https://www.17track.net/zh-cn
+
+    - name: 快递网-查快递
+      icon: truck olive
+      style: basic
+      url: https://www.kuaidi.com/index.html
 
 #    社交
   - name: 社交
