@@ -42,7 +42,7 @@
 
     - name: Jellyfin
       style: purple
-      url: http://1.cc.jie02.link:8096
+      url: https://jf.jie02.link
 
     - name: Alist
       style: green
