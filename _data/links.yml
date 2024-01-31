@@ -116,7 +116,7 @@
       style: yellow
       url: https://www.itdog.cn/http/
 
-    - name: 短信虚拟接收
+    - name: SMS-Activate
       style: orange
       url: https://sms-activate.org
 
