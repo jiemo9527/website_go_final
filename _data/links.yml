@@ -74,18 +74,9 @@
       style: black
       url: https://chat.openai.com/chat
 
-    - name: Bard
-      style: blue
-      url: https://bard.google.com/chat
-
     - name: claude
       style: dark
       url: https://claude.ai/chats
-
-    - name: 维基百科
-      icon: wikipedia w black
-      style: basic
-      url: https://www.wikipedia.org/
 
     - name: FOFA
       style: green
@@ -102,15 +93,6 @@
     - name: zapier
       style: blue
       url: https://zapier.com/app/zaps
-
-    - name: 芝麻代理
-      style: black
-      url: https://www.zmhttp.com/index/
-
-    - name: 网易邮箱
-      icon: envelope red
-      style: basic
-      url: https://email.163.com/
 
     - name: 网站测速
       style: yellow
@@ -241,43 +223,31 @@
       style: basic
       url: https://youtube.com/
 
-    - name: 泥视频
+    - name: bilibili
       style: blue
-      url: https://www.nivod4.tv
+      url: https://www.bilibili.com
 
-    - name: 星视界
-      style: orange
-      url: https://www.histar.tv
+    - name: mini4k
+      style: white
+      url: https://www.mini4k.net/node
 
-    - name: 豆瓣电影
-      icon: film blue
-      style: basic
-      url: https://movie.douban.com/
-
-    - name: 弯弯
+    - name: BTnull
       style: blue
-      url: http://wanwansub.com/
-
-    - name: FIX
-      style: yellow
-      url: https://www.zimuxia.cn/%e6%88%91%e4%bb%ac%e7%9a%84%e4%bd%9c%e5%93%81
+      url: https://www.btnull.org
 
     - name: FIX
       icon: file excel green
       style: basic
       url: https://docs.qq.com/sheet/DWk5KcXdUam1XVFhS
 
-    - name: NEW
-      style: basic
-      url: https://nzmz.xyz/tvslist.html
-
-    - name: 团长
-      style: orange
-      url: https://t-rex.tzfile.com/
-
     - name: 幻樱
       style: pink
       url: http://www.hysub.net/
+
+    - name: 豆瓣电影
+      icon: film blue
+      style: basic
+      url: https://movie.douban.com/
 
 
 #    检测
@@ -344,10 +314,6 @@
     - name: 梦牛网络
       style: green
       url: https://www.mnn.tw/panel/user/index
-
-    - name: Gcore
-      style: orange
-      url: https://cdn.gcore.com/resources/list
 
     - name: CloudFlare
       style: orange
