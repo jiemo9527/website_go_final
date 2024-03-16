@@ -64,9 +64,6 @@
       style: black
       url: https://blog.jie02.top
 
-    - name: JIE's 网赚分享
-      style: blue
-      url: https://wool.jie02.top
 #    工具
   - name: 工具
     links:
@@ -152,7 +149,10 @@
       style: basic
       url: https://github.com/
 
-
+    - name: DockerHub
+      icon: blue
+      style: basic
+      url: https://hub.docker.com/repositories/wanxve0000
 
 - categories:
 #    购物
