@@ -42,15 +42,11 @@
 
     - name: Jellyfin
       style: purple
-      url: https://jf.jie02.link
+      url: http://1.cc.jie02.link:8096
 
     - name: Alist
       style: green
       url: https://alist.jie02.top
-
-    - name: FDM
-      style: blue
-      url: https://fdm.jie02.top
 
     - name: cors
       style: white
