@@ -67,13 +67,13 @@
 #    工具
   - name: 工具
     links:
+    - name: HuggingFace
+      style: yellow
+      url: https://hf.co/chat/
+
     - name: Openai
       style: black
       url: https://chat.openai.com/chat
-
-    - name: claude
-      style: dark
-      url: https://claude.ai/chats
 
     - name: FOFA
       style: green
