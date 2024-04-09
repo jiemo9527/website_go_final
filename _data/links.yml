@@ -299,13 +299,9 @@
       style: blue
       url: https://www.dnspod.cn/login/email
 
-    - name: ping.me
-      style: black
-      url: https://port.ping.pe/
-
-    - name: Netlify
-      style: black
-      url: https://app.netlify.com/account/sites
+    - name: 华为dns
+      style: red
+      url: https://console.huaweicloud.com/dns/?region=cn-north-4#/dns/publiczones
 
     - name: 梦牛网络
       style: green
@@ -314,6 +310,16 @@
     - name: CloudFlare
       style: orange
       url: https://dash.cloudflare.com/8670cbcae63aab68656e85a736601f64
+
+    - name: ping.me
+      style: black
+      url: https://port.ping.pe/
+
+    - name: Netlify
+      style: black
+      url: https://app.netlify.com/account/sites
+
+
 
 
 
