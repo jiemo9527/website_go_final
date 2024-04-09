@@ -291,9 +291,9 @@
       style: blue
       url: https://www.namesilo.com/account_domains.php
 
-    - name: GoDaddy
-      style: white
-      url: https://dcc.godaddy.com/control/portfolio
+    - name: site.ac
+      style: grey
+      url: https://www.site.ac/panel/
 
     - name: DNSpod
       style: blue
