@@ -40,13 +40,17 @@
       style: orange
       url: https://jie02.top
 
-    - name: Jellyfin
-      style: purple
-      url: http://1.cc.jie02.link:8096
-
     - name: Alist
       style: green
       url: https://alist.jie02.top
+
+    - name: aria2ng
+      style: purple
+      url: aria2ng.jie02.top
+
+    - name: HPWRYF
+      style: green
+      url: https://v2.jie02.top
 
     - name: cors
       style: white
