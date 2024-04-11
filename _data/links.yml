@@ -291,6 +291,10 @@
       style: blue
       url: https://www.smarthost.net/clientarea.php?action=services
 
+    - name: FranTech
+      style: blue
+      url: https://my.frantech.ca/clientarea.php?action=services
+
     - name: namesilo
       style: blue
       url: https://www.namesilo.com/account_domains.php
