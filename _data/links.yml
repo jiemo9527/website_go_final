@@ -46,7 +46,7 @@
 
     - name: aria2ng
       style: purple
-      url: aria2ng.jie02.top
+      url: https://aria2ng.jie02.top
 
     - name: HPWRYF
       style: green
