@@ -279,6 +279,10 @@
       style: orange
       url: https://ap-southeast-1.console.aws.amazon.com
 
+    - name: 搬瓦工
+      style: yellow
+      url: https://bandwagonhost.com/services
+
     - name: V.PS
       style: grey
       url: https://vps.hosting/clientarea/services/san-jose-cloud-kvm-vps/
