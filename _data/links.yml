@@ -75,6 +75,10 @@
       style: black
       url: https://chat.openai.com/chat
 
+    - name: Copilot
+      style: blue
+      url: https://www.bing.com/chat
+
     - name: FOFA
       style: green
       url: https://fofa.info
