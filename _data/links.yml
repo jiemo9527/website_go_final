@@ -296,7 +296,7 @@
       url: https://app.cloudcone.com/vps/63172/manage
 
     - name: SmartHost
-      style: blue
+      style: bluehttp://www.orgs.hk/cn/panel.php
       url: https://www.smarthost.net/clientarea.php?action=services
 
     - name: FranTech
@@ -310,6 +310,10 @@
     - name: site.ac
       style: grey
       url: https://www.site.ac/panel/
+
+    - name: orgs.hk
+      style: blue
+      url: http://www.orgs.hk/cn/panel.php
 
     - name: DNSpod
       style: blue
