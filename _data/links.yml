@@ -261,6 +261,10 @@
       style: white
       url: https://ip.skk.moe
 
+    - name: 历史解析记录
+      style: blue
+      url: https://securitytrails.com/
+
     - name: IP.SB
       style: black
       url: https://ip.sb
