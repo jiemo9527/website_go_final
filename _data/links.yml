@@ -71,6 +71,10 @@
       style: yellow
       url: https://hf.co/chat/
 
+    - name: GPTNB
+      style: white
+      url: https://api.gptnb.me/token
+
     - name: Openai
       style: black
       url: https://chat.openai.com/chat
