@@ -79,10 +79,6 @@
       style: black
       url: https://chat.openai.com/chat
 
-    - name: Copilot
-      style: blue
-      url: https://www.bing.com/chat
-
     - name: FOFA
       style: green
       url: https://fofa.info
@@ -314,6 +310,10 @@
     - name: namesilo
       style: blue
       url: https://www.namesilo.com/account_domains.php
+
+    - name: GoDaddy
+      style: black
+      url: https://account.godaddy.com/products
 
     - name: site.ac
       style: grey
