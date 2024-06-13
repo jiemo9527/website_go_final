@@ -315,10 +315,6 @@
       style: black
       url: https://account.godaddy.com/products
 
-    - name: site.ac
-      style: grey
-      url: https://www.site.ac/panel/
-
     - name: orgs.hk
       style: blue
       url: http://www.orgs.hk/cn/panel.php
@@ -326,10 +322,6 @@
     - name: DNSpod
       style: blue
       url: https://www.dnspod.cn/login/email
-
-    - name: 华为dns
-      style: red
-      url: https://console.huaweicloud.com/dns/?region=cn-north-4#/dns/publiczones
 
     - name: 梦牛网络
       style: green
