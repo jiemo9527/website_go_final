@@ -265,7 +265,7 @@
       style: black
       url: https://ip.sb
 
-    - name: 历史解析记录
+    - name: securitytrails
       style: blue
       url: https://securitytrails.com/
 
