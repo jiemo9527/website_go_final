@@ -303,10 +303,6 @@
       style: bluehttp://www.orgs.hk/cn/panel.php
       url: https://www.smarthost.net/clientarea.php?action=services
 
-    - name: FranTech
-      style: blue
-      url: https://my.frantech.ca/clientarea.php?action=services
-
     - name: namesilo
       style: blue
       url: https://www.namesilo.com/account_domains.php
@@ -330,6 +326,10 @@
     - name: 梦牛网络
       style: green
       url: https://www.mnn.tw/panel/user/index
+
+    - name: 59cloud
+      style: black
+      url: https://www.59cloud.com/clientarea
 
     - name: CloudFlare
       style: orange
