@@ -73,7 +73,7 @@
 
     - name: GPTNB
       style: white
-      url: https://api.gptnb.me/token
+      url: https://api.gptnb.ai/token
 
     - name: Openai
       style: black
