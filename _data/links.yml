@@ -76,7 +76,7 @@
       url: https://api.gptnb.ai/token
 
     - name: Cbbb
-      style: white
+      style: green
       url: https://api.cbbb.net/panel/dashboard
 
     - name: Openai
