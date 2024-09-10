@@ -311,10 +311,6 @@
       style: blue
       url: https://www.namesilo.com/account_domains.php
 
-    - name: n1转发
-      style: green
-      url: https://ny.n111.link/#/forward_rules
-
     - name: GoDaddy
       style: black
       url: https://account.godaddy.com/products
@@ -325,15 +321,11 @@
 
     - name: DNSpod
       style: blue
-      url: https://www.dnspod.cn/login/email
+      url: https://cloud.tencent.com/login?s_url=https%3A%2F%2Fcloud.tencent.com%2Flogin%2Fthirdparty-login%3Fs_url%3Dhttps%253A%252F%252Fwww.dnspod.cn%252Flogin_proxy%252Ftencentcloud%253Fs_url%253Dhttp%25253A%25252F%25252Fconsole.dnspod.cn%25252F%2526login_jump%253Dyes%26auth_type%3D1
 
     - name: 梦牛网络
       style: green
       url: https://www.mnn.tw/panel/user/index
-
-    - name: 59cloud
-      style: black
-      url: https://www.59cloud.com/clientarea
 
     - name: CloudFlare
       style: orange
