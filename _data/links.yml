@@ -291,9 +291,9 @@
       style: yellow
       url: https://bandwagonhost.com/services
 
-    - name: CloudCone
-      style: green
-      url: https://app.cloudcone.com/vps/63172/manage
+    - name: Claw
+      style: balck
+      url: https://claw.cloud/clientarea.php?action=services
 
     - name: SmartHost
       style: bluehttp://www.orgs.hk/cn/panel.php
