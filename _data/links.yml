@@ -295,6 +295,10 @@
       style: balck
       url: https://claw.cloud/clientarea.php?action=services
 
+    - name: colocrossing
+      style: blue
+      url: https://cloud.colocrossing.com/clientarea.php?action=productdetails&id=16800
+
     - name: SmartHost
       style: bluehttp://www.orgs.hk/cn/panel.php
       url: https://www.smarthost.net/clientarea.php?action=services
