@@ -295,6 +295,10 @@
       style: balck
       url: https://claw.cloud/clientarea.php?action=services
 
+    - name: RackNerd
+      style: blue
+      url: https://my.racknerd.com/clientarea.php?action=productdetails&id=384784
+
     - name: colocrossing
       style: blue
       url: https://cloud.colocrossing.com/clientarea.php?action=productdetails&id=16800
