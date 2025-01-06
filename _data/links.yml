@@ -261,21 +261,21 @@
 #    检测
   - name: 检测
     links:
+    - name: Ping0
+      style: black
+      url: https://ping0.cc/
+
     - name: IPSukka
       style: white
       url: https://ip.skk.moe
-
-    - name: IP.SB
-      style: black
-      url: https://ip.sb
 
     - name: securitytrails
       style: blue
       url: https://securitytrails.com/
 
-    - name: CF测速
-      style: orange
-      url: https://speed.cloudflare.com
+    - name: IP.SB
+      style: black
+      url: https://ip.sb
 
     - name: speedtest.cn
       style: blue
@@ -284,6 +284,10 @@
     - name: speedtest.net
       style: black
       url: https://speedtest.net/
+
+    - name: CF测速
+      style: orange
+      url: https://speed.cloudflare.com
 #    服务器
   - name: Server
     links:
