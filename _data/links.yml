@@ -75,49 +75,52 @@
       url: https://donate.jie02.top
 
     - name: JIE's dev blog
-      icon: pen
+      icon: blog
       style: black
       url: https://blog.jie02.top
 #    工具
   - name: 工具
     links:
     - name: GPTNB
+      icon: brain
       style: white
       url: https://api.gptnb.ai/token
 
     - name: ocoolAI
+      icon: robot
       style: purple
       url: https://one.ooo.cool
 
     - name: Openai
+      icon: comments
       style: black
       url: https://chat.openai.com/chat
 
     - name: HuggingFace
+      icon: smile
       style: yellow
       url: https://hf.co/chat/
 
     - name: FOFA
+      icon: search
       style: green
       url: https://fofa.info
 
-#    - name: 阿里语音交互
-#      style: orange
-#      url: https://nls-portal.console.aliyun.com/app/265344/11111111111?appkey=4BNzO0ieqTYUR29q
+    # - name: 阿里语音交互
+    #   icon: microphone
+    #   style: orange
+    #   url: https://nls-portal.console.aliyun.com/app/265344/11111111111?appkey=4BNzO0ieqTYUR29q
 
     - name: ITDOG
+      icon: laptop-code
       style: yellow
       url: https://www.itdog.cn/http/
 
-    - name: 17track-查快递
-      icon: truck olive
-      style: basic
-      url: https://www.17track.net/zh-cn
-
     - name: 快递网-查快递
-      icon: truck olive
-      style: basic
+      icon: truck
+      style: olive
       url: https://www.kuaidi.com/index.html
+
 
 #    社交
   - name: 社交
