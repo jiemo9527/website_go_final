@@ -264,12 +264,12 @@
       url: https://ip.sb
 
     - name: speedtest.cn
-      icon: tachometer-alt
+      icon: dashboard
       style: blue
       url: https://www.speedtest.cn
 
     - name: speedtest.net
-      icon: tachometer-alt
+      icon: chart line
       style: black
       url: https://speedtest.net/
 
@@ -337,7 +337,7 @@
       url: https://cloud.tencent.com/login?s_url=https%3A%2F%2Fcloud.tencent.com%2Flogin%2Fthirdparty-login%3Fs_url%3Dhttps%253A%252F%252Fwww.dnspod.cn%252Flogin_proxy%252Ftencentcloud%253Fs_url%253Dhttp%25253A%25252F%25252Fconsole.dnspod.cn%25252F%2526login_jump%253Dyes%26auth_type%3D1
 
     - name: 梦牛网络
-      icon: network-wired
+      icon: sitemap
       style: green
       url: https://www.mnn.tw/panel/user/index
 
@@ -352,7 +352,7 @@
       url: https://port.ping.pe/
 
     - name: Netlify
-      icon: cloud-upload-alt
+      icon: cloud upload
       style: black
       url: https://app.netlify.com/account/sites
 
