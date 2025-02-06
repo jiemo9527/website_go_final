@@ -45,7 +45,7 @@
   - name: web服务
     links:
     - name: 短网址
-      icon: link
+      icon: chain
       style: orange
       url: https://jie02.top
 
@@ -65,61 +65,49 @@
       url: https://v2.jie02.top
 
     - name: cors
-      icon: exchange-alt
+      icon: sync
       style: white
       url: https://cors.jie02.top
 
     - name: 捐赠②
-      icon: hand-holding-heart
+      icon: heart
       style: blue
       url: https://donate.jie02.top
 
     - name: JIE's dev blog
-      icon: blog
+      icon: pen
       style: black
       url: https://blog.jie02.top
 #    工具
   - name: 工具
     links:
-    - name: HuggingFace
-      style: yellow
-      url: https://hf.co/chat/
-
     - name: GPTNB
       style: white
       url: https://api.gptnb.ai/token
 
-    - name: Cbbb
-      style: green
-      url: https://api.cbbb.net/panel/dashboard
+    - name: ocoolAI
+      style: purple
+      url: https://one.ooo.cool
 
     - name: Openai
       style: black
       url: https://chat.openai.com/chat
 
+    - name: HuggingFace
+      style: yellow
+      url: https://hf.co/chat/
+
     - name: FOFA
       style: green
       url: https://fofa.info
 
-    - name: 阿里语音交互
-      style: orange
-      url: https://nls-portal.console.aliyun.com/app/265344/11111111111?appkey=4BNzO0ieqTYUR29q
+#    - name: 阿里语音交互
+#      style: orange
+#      url: https://nls-portal.console.aliyun.com/app/265344/11111111111?appkey=4BNzO0ieqTYUR29q
 
-    - name: Base64
-      style: light blue
-      url: https://base64.us
-
-    - name: zapier
-      style: blue
-      url: https://zapier.com/app/zaps
-
-    - name: 网站测速
+    - name: ITDOG
       style: yellow
       url: https://www.itdog.cn/http/
-
-    - name: SMS-Activate
-      style: orange
-      url: https://sms-activate.org
 
     - name: 17track-查快递
       icon: truck olive
