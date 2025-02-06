@@ -82,12 +82,12 @@
   - name: 工具
     links:
     - name: GPTNB
-      icon: brain
+      icon: lightbulb
       style: white
       url: https://api.gptnb.ai/token
 
     - name: ocoolAI
-      icon: robot
+      icon: cogs
       style: purple
       url: https://one.ooo.cool
 
@@ -112,7 +112,7 @@
     #   url: https://nls-portal.console.aliyun.com/app/265344/11111111111?appkey=4BNzO0ieqTYUR29q
 
     - name: ITDOG
-      icon: laptop-code
+      icon: desktop
       style: yellow
       url: https://www.itdog.cn/http/
 
@@ -156,7 +156,7 @@
       url: https://tieba.baidu.com/
 
     - name: 知乎
-      icon: question-circle
+      icon: lightbulb
       style: blue
       url: https://www.zhihu.com/
 
