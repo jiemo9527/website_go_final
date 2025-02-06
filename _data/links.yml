@@ -4,36 +4,41 @@
     links:
     - name: Google
       icon: google
-      style: basic
+      style: white
       url: https://www.google.com
 
     - name: 谷歌翻译
-      style: basic
       icon: language
+      style: blue
       url: https://translate.google.com/?sl=auto&tl=en&op=translate
 
     - name: Google Drive
-      style: basic
       icon: google-drive
+      style: green
       url: https://drive.google.com
 
     - name: Google Script
+      icon: code
       style: orange
       url: https://script.google.com
 
     - name: Gmail
+      icon: envelope
       style: red
       url: https://mail.google.com
 
     - name: Google相册
+      icon: images
       style: grey
       url: https://photos.google.com
 
     - name: google应用店
+      icon: th
       style: blue
       url: https://chrome.google.com/webstore/category/extensions?hl=zh
 
     - name: Google Voice
+      icon: phone
       style: green
       url: https://voice.google.com/
 #    专属
@@ -124,46 +129,50 @@
   - name: 社交
     links:
     - name: 微博
-      icon: weibo red
-      style: basic
+      icon: weibo
+      style: red
       url: https://weibo.com/
 
     - name: 微信网页版
-      icon: weixin green
-      style: basic
+      icon: weixin
+      style: green
       url: https://wx.qq.com/
 
     - name: 恩山论坛
+      icon: comments
       style: blue
       url: https://www.right.com.cn/forum/forum.php
 
     - name: 吾爱破解
+      icon: lock-open
       style: pink
       url: https://www.52pojie.cn/
 
     - name: 一加社区
+      icon: users
       style: red
       url: https://www.oneplusbbs.com/forum-118-1.html
 
     - name: 百度贴吧
-      icon: paw blue
-      style: basic
+      icon: paw
+      style: blue
       url: https://tieba.baidu.com/
 
     - name: 知乎
-      icon: zhihu blue
-      style: basic
+      icon: zhihu
+      style: blue
       url: https://www.zhihu.com/
 
     - name: GitHub
-      icon: github black
-      style: basic
+      icon: github
+      style: black
       url: https://github.com/
 
     - name: DockerHub
-      icon: blue
-      style: basic
+      icon: docker
+      style: blue
       url: https://hub.docker.com/repositories/wanxve0000
+
 
 - categories:
 #    购物
@@ -243,11 +252,11 @@
       url: https://www.mini4k.net/node
 
     - name: BTnull
-      style: blue
+      style: film blue
       url: https://www.btnull.org
 
     - name: SubHD
-      icon: addpic/subhd.png
+      icon: film blue
       style: basic
       url: https://subhd.tv/sub/toptv
 
