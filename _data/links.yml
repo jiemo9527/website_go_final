@@ -121,7 +121,6 @@
       style: olive
       url: https://www.kuaidi.com/index.html
 
-
 #    社交
   - name: 社交
     links:
@@ -176,185 +175,187 @@
   - name: 购物
     links:
     - name: 淘宝
+      icon: shopping-cart
       style: orange
       url: https://www.taobao.com/
 
     - name: 天猫
+      icon: cat
       style: red
       url: https://www.tmall.com/
 
     - name: 京东
+      icon: shopping-bag
       style: basic
       url: https://www.jd.com/
 
     - name: Amazon
-      icon: amazon yellow
-      style: basic
+      icon: amazon
+      style: yellow
       url: https://www.amazon.cn/
 
     - name: Apple
-      style: basic
-      icon: apple grey
+      icon: apple
+      style: grey
       url: https://www.apple.com/
 
-    - name: 当当
-      style: pink
-      url: http://www.dangdang.com/
-
     - name: 严选
+      icon: gift
       style: basic
       url: http://you.163.com/
 
-    - name: UNIQLO
-      style: red
-      url: http://www.uniqlo.cn/
 
-    - name: MUJI
-      style: basic
-      url: http://www.muji.com.cn/
-
-    - name: IKEA
-      style: yellow
-      url: https://www.ikea.cn/
-
-    - name: Decathlon
-      style: blue
-      url: https://www.decathlon.com.cn/
-
-    - name: 大疆
-      style: black
-      url: https://www.dji.com/
-
-    - name: 小米
-      style: orange
-      url: https://www.mi.com/
-
-    - name: 有品
-      style: brown
-      url: https://xiaomiyoupin.com/
 #    影视
   - name: 影视
     links:
     - name: Youtube
-      icon: youtube red
-      style: basic
+      icon: youtube
+      style: red
       url: https://youtube.com/
 
     - name: bilibili
+      icon: play-circle
       style: blue
       url: https://www.bilibili.com
 
     - name: mini4k
+      icon: video
       style: white
       url: https://www.mini4k.net/node
 
     - name: BTnull
-      style: film blue
+      icon: film
+      style: blue
       url: https://www.btnull.org
 
     - name: SubHD
-      icon: film blue
-      style: basic
+      icon: film
+      style: blue
       url: https://subhd.tv/sub/toptv
 
     - name: 豆瓣电影
-      icon: film green
-      style: basic
+      icon: film
+      style: green
       url: https://movie.douban.com/
+
 
 
 #    检测
   - name: 检测
     links:
     - name: Ping0
+      icon: tachometer-alt
       style: black
       url: https://ping0.cc/
 
     - name: IPSukka
+      icon: globe
       style: white
       url: https://ip.skk.moe
 
     - name: securitytrails
+      icon: shield-alt
       style: blue
       url: https://securitytrails.com/
 
     - name: IP.SB
+      icon: map-marker-alt
       style: black
       url: https://ip.sb
 
     - name: speedtest.cn
+      icon: tachometer-alt
       style: blue
       url: https://www.speedtest.cn
 
     - name: speedtest.net
+      icon: tachometer-alt
       style: black
       url: https://speedtest.net/
 
     - name: CF测速
+      icon: cloud
       style: orange
       url: https://speed.cloudflare.com
+
 #    服务器
   - name: Server
     links:
     - name: 搬瓦工
+      icon: server
       style: yellow
       url: https://bandwagonhost.com/services
 
     - name: akile
+      icon: cloud
       style: blue
       url: https://akile.io/console
 
     - name: RackNerd
+      icon: network-wired
       style: blue
       url: https://my.racknerd.com/clientarea.php?action=productdetails&id=384784
 
     - name: FranTech
+      icon: server
       style: white
       url: https://my.frantech.ca/clientarea.php?action=services
 
     - name: colocrossing
+      icon: cloud
       style: blue
       url: https://cloud.colocrossing.com/clientarea.php?action=productdetails&id=16800
 
     - name: Vkvm
+      icon: server
       style: blue
       url: https://www.vkvm.info/clientarea
 
     - name: LittleCreek
+      icon: server
       style: white
       url: https://www.littlecreekhosting.com/clients/clientarea.php
 
     - name: namesilo
+      icon: globe
       style: blue
       url: https://www.namesilo.com/account_domains.php
 
     - name: GoDaddy
+      icon: globe
       style: black
       url: https://account.godaddy.com/products
 
     - name: orgs.hk
+      icon: globe
       style: blue
       url: http://www.orgs.hk/cn/panel.php
 
     - name: DNSpod
+      icon: dns
       style: blue
       url: https://cloud.tencent.com/login?s_url=https%3A%2F%2Fcloud.tencent.com%2Flogin%2Fthirdparty-login%3Fs_url%3Dhttps%253A%252F%252Fwww.dnspod.cn%252Flogin_proxy%252Ftencentcloud%253Fs_url%253Dhttp%25253A%25252F%25252Fconsole.dnspod.cn%25252F%2526login_jump%253Dyes%26auth_type%3D1
 
     - name: 梦牛网络
+      icon: network-wired
       style: green
       url: https://www.mnn.tw/panel/user/index
 
     - name: CloudFlare
+      icon: cloud
       style: orange
       url: https://dash.cloudflare.com/8670cbcae63aab68656e85a736601f64
 
     - name: ping.me
+      icon: signal
       style: black
       url: https://port.ping.pe/
 
     - name: Netlify
+      icon: cloud-upload-alt
       style: black
       url: https://app.netlify.com/account/sites
+
 
 
 
