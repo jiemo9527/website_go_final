@@ -3,15 +3,18 @@
   - name: 谷歌
     links:
     - name: Google
-      style: white
+      icon: google
+      style: basic
       url: https://www.google.com
 
     - name: 谷歌翻译
-      style: blue
+      style: basic
+      icon: language
       url: https://translate.google.com/?sl=auto&tl=en&op=translate
 
     - name: Google Drive
-      style: green
+      style: basic
+      icon: google-drive
       url: https://drive.google.com
 
     - name: Google Script
