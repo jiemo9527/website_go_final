@@ -13,7 +13,7 @@
       url: https://translate.google.com/?sl=auto&tl=en&op=translate
 
     - name: Google Drive
-      icon: google-drive
+      icon: cloud
       style: green
       url: https://drive.google.com
 
@@ -32,7 +32,7 @@
       style: grey
       url: https://photos.google.com
 
-    - name: google应用店
+    - name: Google应用
       icon: th
       style: blue
       url: https://chrome.google.com/webstore/category/extensions?hl=zh
@@ -45,33 +45,39 @@
   - name: web服务
     links:
     - name: 短网址
+      icon: link
       style: orange
       url: https://jie02.top
 
     - name: Alist
+      icon: list
       style: green
       url: https://alist.jie02.top
 
     - name: aria2ng
+      icon: download
       style: purple
       url: https://aria2ng.jie02.top
 
     - name: HPWRYF
+      icon: server
       style: green
       url: https://v2.jie02.top
 
     - name: cors
+      icon: exchange-alt
       style: white
       url: https://cors.jie02.top
 
     - name: 捐赠②
+      icon: hand-holding-heart
       style: blue
       url: https://donate.jie02.top
 
     - name: JIE's dev blog
+      icon: blog
       style: black
       url: https://blog.jie02.top
-
 #    工具
   - name: 工具
     links:
@@ -144,7 +150,7 @@
       url: https://www.right.com.cn/forum/forum.php
 
     - name: 吾爱破解
-      icon: lock-open
+      icon: unlock
       style: pink
       url: https://www.52pojie.cn/
 
@@ -159,7 +165,7 @@
       url: https://tieba.baidu.com/
 
     - name: 知乎
-      icon: zhihu
+      icon: question-circle
       style: blue
       url: https://www.zhihu.com/
 
