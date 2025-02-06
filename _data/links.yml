@@ -246,10 +246,10 @@
     - name: SubHD
       icon: ./addpic/subhd.png
       style: basic
-      url: https://docs.qq.com/sheet/DWk5KcXdUam1XVFhS
+      url: https://subhd.tv/sub/toptv
 
     - name: 豆瓣电影
-      icon: film blue
+      icon: film green
       style: basic
       url: https://movie.douban.com/
 
