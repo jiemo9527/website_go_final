@@ -175,19 +175,20 @@
   - name: 购物
     links:
     - name: 淘宝
-      icon: tags
+      icon: shopping cart
       style: orange
       url: https://www.taobao.com/
 
     - name: 天猫
-      icon: store
+      icon: shopping bag
       style: red
       url: https://www.tmall.com/
 
     - name: 京东
-      icon: box
-      style: basic
+      icon: warehouse
+      style: red
       url: https://www.jd.com/
+
 
     - name: Amazon
       icon: amazon
