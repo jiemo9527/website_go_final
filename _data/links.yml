@@ -215,7 +215,7 @@
       url: https://youtube.com/
 
     - name: bilibili
-      icon: play
+      icon: video
       style: blue
       url: https://www.bilibili.com
 
@@ -245,7 +245,7 @@
   - name: 检测
     links:
     - name: Ping0
-      icon: tachometer
+      icon: dashboard
       style: black
       url: https://ping0.cc/
 
@@ -266,7 +266,7 @@
 
 
     - name: speedtest.cn
-      icon: dashboard
+      icon: chart line
       style: blue
       url: https://www.speedtest.cn
 
