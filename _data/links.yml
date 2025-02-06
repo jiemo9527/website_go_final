@@ -243,14 +243,10 @@
       style: blue
       url: https://www.btnull.org
 
-    - name: FIX
-      icon: file excel green
+    - name: SubHD
+      icon: https://img.subhd.tv/files/favicon-32x32.png
       style: basic
       url: https://docs.qq.com/sheet/DWk5KcXdUam1XVFhS
-
-    - name: 幻樱
-      style: pink
-      url: http://www.hysub.net/
 
     - name: 豆瓣电影
       icon: film blue
