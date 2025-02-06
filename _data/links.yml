@@ -244,7 +244,7 @@
       url: https://www.btnull.org
 
     - name: SubHD
-      icon: ./addpic/subhd.png
+      icon: addpic/subhd.png
       style: basic
       url: https://subhd.tv/sub/toptv
 
