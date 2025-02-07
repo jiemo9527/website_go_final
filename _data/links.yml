@@ -294,12 +294,12 @@
       url: https://akile.io/console
 
     - name: RackNerd
-      icon: network-wired
+      icon: server
       style: blue
       url: https://my.racknerd.com/clientarea.php?action=productdetails&id=384784
 
     - name: FranTech
-      icon: server
+      icon: cloud
       style: white
       url: https://my.frantech.ca/clientarea.php?action=services
 
