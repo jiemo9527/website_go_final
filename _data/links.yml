@@ -80,13 +80,13 @@
       url: https://blog.jie02.top
 
     - name: duckduckcute
-      icon: fa-bird
-      style: Ivory
+      icon: fa-edit
+      style: white
       url: https://duckduckcute.jie02.top
 
     - name: 杰尼飞舞公告
       icon: fa-bullhorn
-      style: navy
+      style: blue
       url: https://jnfw6.jie02.top
 #    工具
   - name: 工具
