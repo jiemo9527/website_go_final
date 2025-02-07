@@ -129,11 +129,6 @@
       style: red
       url: https://weibo.com/
 
-    - name: 微信网页版
-      icon: weixin
-      style: green
-      url: https://wx.qq.com/
-
     - name: 恩山论坛
       icon: comments
       style: blue
