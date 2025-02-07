@@ -239,7 +239,7 @@
       style: blue
       url: https://subhd.tv/sub/toptv
 
-    - name: 豆瓣电影
+    - name: 豆瓣
       icon: film
       style: green
       url: https://movie.douban.com/
