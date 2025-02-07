@@ -11,7 +11,7 @@ active_key: home
                     <div class="links column">
                         <div class="ui mini top attached label" style="font-size: 13px">{{ category.name }}</div>
                         <div class="ui mini labels">
-                            {% for link in category.links %}<a class="ui mini {{ link.style }} label" style="font-size: 13px" href="{{ link.url }}" target="_blank">{% if link.icon %}<i class="{{ link.icon }} icon"></i>{% endif %}{{ link.name }}</a>{% endfor %}
+                            {% for link in category.links %}<a class="ui mini {{ link.style }} label" style="font-size: 13px" href="{{ link.url }}" target="_blank">{% if link.icon %}<i class="{{ link.icon }} "></i>{% endif %}{{ link.name }}</a>{% endfor %}
                         </div>
                     </div>
                 {%- endfor -%}
