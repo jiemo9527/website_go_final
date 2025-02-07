@@ -78,6 +78,18 @@
       icon: blog
       style: black
       url: https://blog.jie02.top
+
+    - name: duckduckcute
+      icon: fas fa-duck
+      style: black
+      url: https://duckduckcute.jie02.top
+
+    - name: 杰尼飞舞公告
+      icon:
+        type: font-awesome
+        class: fas fa-bullhorn
+      style: black
+      url: https://jnfw6.jie02.top
 #    工具
   - name: 工具
     links:
