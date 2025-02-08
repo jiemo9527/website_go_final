@@ -121,6 +121,16 @@
       style: yellow
       url: https://www.itdog.cn/http/
 
+    - name: CESU.AI
+      icon: desktop
+      style: purple
+      url: https://www.cesu.ai/http/
+
+    - name: 炸了么
+      icon: desktop
+      style: white
+      url: https://zhale.me/http/
+
     - name: 快递网-查快递
       icon: truck
       style: olive
