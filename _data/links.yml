@@ -115,21 +115,20 @@
     #   icon: microphone
     #   style: orange
     #   url: https://nls-portal.console.aliyun.com/app/265344/11111111111?appkey=4BNzO0ieqTYUR29q
+    - name: speedtest.cn
+      icon: chart line
+      style: blue
+      url: https://www.speedtest.cn
 
-    - name: ITDOG
-      icon: desktop
-      style: yellow
-      url: https://www.itdog.cn/http/
+    - name: speedtest.net
+      icon: chart line
+      style: black
+      url: https://speedtest.net/
 
-    - name: CESU.AI
-      icon: desktop
-      style: purple
-      url: https://www.cesu.ai/http/
-
-    - name: 炸了么
-      icon: desktop
-      style: white
-      url: https://zhale.me/http/
+    - name: CF测速
+      icon: cloud
+      style: orange
+      url: https://speed.cloudflare.com
 
     - name: 快递网-查快递
       icon: truck
@@ -274,21 +273,20 @@
       style: black
       url: https://ip.sb
 
+    - name: ITDOG
+      icon: desktop
+      style: yellow
+      url: https://www.itdog.cn/http/
 
-    - name: speedtest.cn
-      icon: chart line
-      style: blue
-      url: https://www.speedtest.cn
+    - name: CESU.AI
+      icon: desktop
+      style: purple
+      url: https://www.cesu.ai/http/
 
-    - name: speedtest.net
-      icon: chart line
-      style: black
-      url: https://speedtest.net/
-
-    - name: CF测速
-      icon: cloud
-      style: orange
-      url: https://speed.cloudflare.com
+    - name: 炸了么
+      icon: desktop
+      style: white
+      url: https://zhale.me/http/
 
 #    服务器
   - name: Server
@@ -330,7 +328,7 @@
 
     - name: netcup
       icon: server
-      style: slate
+      style: green
       url: https://www.customercontrolpanel.de/start.php
 
     - name: ping.me
@@ -343,6 +341,7 @@
       style: black
       url: https://app.netlify.com/account/sites
 
+- categories:
   - name: dns解析/域名挂靠
     links:
     - name: CloudFlare
