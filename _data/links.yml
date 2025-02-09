@@ -328,36 +328,10 @@
       style: white
       url: https://www.littlecreekhosting.com/clients/clientarea.php
 
-    - name: namesilo
-      icon: globe
-      style: blue
-      url: https://www.namesilo.com/account_domains.php
-
-    - name: GoDaddy
-      icon: globe
-      style: black
-      url: https://account.godaddy.com/products
-
-    - name: orgs.hk
-      icon: globe
-      style: blue
-      url: http://www.orgs.hk/cn/panel.php
-
-    - name: DNSpod
-      icon: globe
-      style: blue
-      url: https://cloud.tencent.com/login?s_url=https%3A%2F%2Fcloud.tencent.com%2Flogin%2Fthirdparty-login%3Fs_url%3Dhttps%253A%252F%252Fwww.dnspod.cn%252Flogin_proxy%252Ftencentcloud%253Fs_url%253Dhttp%25253A%25252F%25252Fconsole.dnspod.cn%25252F%2526login_jump%253Dyes%26auth_type%3D1
-
-
-    - name: 梦牛网络
-      icon: sitemap
-      style: green
-      url: https://www.mnn.tw/panel/user/index
-
-    - name: CloudFlare
-      icon: cloud
-      style: orange
-      url: https://dash.cloudflare.com/8670cbcae63aab68656e85a736601f64
+    - name: netcup
+      icon: server
+      style: slate
+      url: https://www.customercontrolpanel.de/start.php
 
     - name: ping.me
       icon: signal
@@ -369,12 +343,46 @@
       style: black
       url: https://app.netlify.com/account/sites
 
-  - name: dns
+  - name: dns解析/域名挂靠
     links:
+    - name: CloudFlare
+      icon: cloud
+      style: orange
+      url: https://dash.cloudflare.com/8670cbcae63aab68656e85a736601f64
+
     - name: 阿里云
       icon: globe
       style: orange
       url: https://dns.console.aliyun.com/?spm=5176.28197678_-617102545.0.0.140b5b8eIvO9Pr#/dns/domainList
+
+    - name: 梦牛网络
+      icon: sitemap
+      style: green
+      url: https://www.mnn.tw/panel/user/index
+
+    - name: DNSpod
+      icon: globe
+      style: blue
+      url: https://cloud.tencent.com/login?s_url=https%3A%2F%2Fcloud.tencent.com%2Flogin%2Fthirdparty-login%3Fs_url%3Dhttps%253A%252F%252Fwww.dnspod.cn%252Flogin_proxy%252Ftencentcloud%253Fs_url%253Dhttp%25253A%25252F%25252Fconsole.dnspod.cn%25252F%2526login_jump%253Dyes%26auth_type%3D1
+
+    - name: GoDaddy
+      icon: globe
+      style: black
+      url: https://account.godaddy.com/products
+
+    - name: namesilo
+      icon: globe
+      style: blue
+      url: https://www.namesilo.com/account_domains.php
+
+    - name: orgs.hk
+      icon: globe
+      style: blue
+      url: http://www.orgs.hk/cn/panel.php
+
+
+
+
 
 
 
