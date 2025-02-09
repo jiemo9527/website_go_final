@@ -369,7 +369,12 @@
       style: black
       url: https://app.netlify.com/account/sites
 
-
+  - name: dns
+    links:
+    - name: 阿里云
+      icon: globe
+      style: orange
+      url: https://dns.console.aliyun.com/?spm=5176.28197678_-617102545.0.0.140b5b8eIvO9Pr#/dns/domainList
 
 
 
