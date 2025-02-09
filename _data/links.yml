@@ -1,88 +1,46 @@
 - categories:
-#    谷歌
-  - name: 谷歌
+#    检测
+  - name: 检测
     links:
-    - name: Google
-      icon: google
+    - name: Ping0
+      icon: dashboard
+      style: black
+      url: https://ping0.cc/
+
+    - name: IPSukka
+      icon: globe
       style: white
-      url: https://www.google.com
+      url: https://ip.skk.moe
 
-    - name: 谷歌翻译
-      icon: language
+    - name: securitytrails
+      icon: shield
       style: blue
-      url: https://translate.google.com/?sl=auto&tl=en&op=translate
+      url: https://securitytrails.com/
 
-    - name: Google Drive
-      icon: cloud
-      style: green
-      url: https://drive.google.com
+    - name: IP.SB
+      icon: map marker
+      style: black
+      url: https://ip.sb
 
-    - name: Google Script
-      icon: code
-      style: orange
-      url: https://script.google.com
+    - name: ITDOG
+      icon: desktop
+      style: yellow
+      url: https://www.itdog.cn/http/
 
-    - name: Gmail
-      icon: envelope
-      style: red
-      url: https://mail.google.com
-
-    - name: Google相册
-      icon: images
-      style: grey
-      url: https://photos.google.com
-
-    - name: Google应用
-      icon: th
-      style: blue
-      url: https://chrome.google.com/webstore/category/extensions?hl=zh
-
-    - name: Google Voice
-      icon: phone
-      style: green
-      url: https://voice.google.com/
-#    专属
-  - name: web服务
-    links:
-    - name: 短网址
-      icon: chain
-      style: orange
-      url: https://jie02.top
-
-    - name: Alist
-      icon: list
-      style: green
-      url: https://alist.jie02.top
-
-    - name: aria2ng
-      icon: download
+    - name: CESU.AI
+      icon: desktop
       style: purple
-      url: https://aria2ng.jie02.top
+      url: https://www.cesu.ai/http/
 
-    - name: HPWRYF
-      icon: server
-      style: green
-      url: https://v2.jie02.top
-
-    - name: cors
-      icon: sync
+    - name: 炸了么
+      icon: desktop
       style: white
-      url: https://cors.jie02.top
+      url: https://zhale.me/http/
 
-    - name: 捐赠②
-      icon: heart
-      style: blue
-      url: https://donate.jie02.top
-
-    - name: duckduckcute
-      icon: fa-edit
-      style: white
-      url: https://duckduckcute.jie02.top
-
-    - name: 杰尼飞舞公告
-      icon: fa-bullhorn
-      style: blue
-      url: https://jnfw6.jie02.top
+    - name: ping.me
+      icon: signal
+      style: black
+      url: https://port.ping.pe/
 #    工具
   - name: 工具
     links:
@@ -134,7 +92,129 @@
       icon: truck
       style: olive
       url: https://www.kuaidi.com/index.html
+#    dns
+  - name: dns解析/域名挂靠
+    links:
+    - name: CloudFlare
+      icon: cloud
+      style: orange
+      url: https://dash.cloudflare.com/8670cbcae63aab68656e85a736601f64
 
+    - name: 阿里云
+      icon: globe
+      style: orange
+      url: https://dns.console.aliyun.com/?spm=5176.28197678_-617102545.0.0.140b5b8eIvO9Pr#/dns/domainList
+
+    - name: 梦牛网络
+      icon: sitemap
+      style: green
+      url: https://www.mnn.tw/panel/user/index
+
+    - name: DNSpod
+      icon: globe
+      style: blue
+      url: https://cloud.tencent.com/login?s_url=https%3A%2F%2Fcloud.tencent.com%2Flogin%2Fthirdparty-login%3Fs_url%3Dhttps%253A%252F%252Fwww.dnspod.cn%252Flogin_proxy%252Ftencentcloud%253Fs_url%253Dhttp%25253A%25252F%25252Fconsole.dnspod.cn%25252F%2526login_jump%253Dyes%26auth_type%3D1
+
+    - name: GoDaddy
+      icon: globe
+      style: black
+      url: https://account.godaddy.com/products
+
+    - name: namesilo
+      icon: globe
+      style: blue
+      url: https://www.namesilo.com/account_domains.php
+
+    - name: orgs.hk
+      icon: globe
+      style: blue
+      url: http://www.orgs.hk/cn/panel.php
+#    专属
+  - name: web服务
+    links:
+    - name: 短网址
+      icon: chain
+      style: orange
+      url: https://jie02.top
+
+    - name: Alist
+      icon: list
+      style: green
+      url: https://alist.jie02.top
+
+    - name: aria2ng
+      icon: download
+      style: purple
+      url: https://aria2ng.jie02.top
+
+    - name: HPWRYF
+      icon: server
+      style: green
+      url: https://v2.jie02.top
+
+    - name: cors
+      icon: sync
+      style: white
+      url: https://cors.jie02.top
+
+    - name: 捐赠②
+      icon: heart
+      style: blue
+      url: https://donate.jie02.top
+
+    - name: duckduckcute
+      icon: fa-edit
+      style: white
+      url: https://duckduckcute.jie02.top
+
+    - name: 杰尼飞舞公告
+      icon: fa-bullhorn
+      style: blue
+      url: https://jnfw6.jie02.top
+
+- categories:
+#    谷歌
+  - name: 谷歌
+    links:
+    - name: Google
+      icon: google
+      style: white
+      url: https://www.google.com
+
+    - name: 谷歌翻译
+      icon: language
+      style: blue
+      url: https://translate.google.com/?sl=auto&tl=en&op=translate
+
+    - name: Google Drive
+      icon: cloud
+      style: green
+      url: https://drive.google.com
+
+    - name: Google Script
+      icon: code
+      style: orange
+      url: https://script.google.com
+
+    - name: Gmail
+      icon: envelope
+      style: red
+      url: https://mail.google.com
+
+    - name: Google相册
+      icon: images
+      style: grey
+      url: https://photos.google.com
+
+    - name: Google应用
+      icon: th
+      style: blue
+      url: https://chrome.google.com/webstore/category/extensions?hl=zh
+
+    - name: Google Voice
+      icon: phone
+      style: green
+      url: https://voice.google.com/
 #    社交
   - name: 社交
     links:
@@ -177,44 +257,6 @@
       icon: docker
       style: blue
       url: https://hub.docker.com/repositories/wanxve0000
-
-
-- categories:
-#    购物
-  - name: 购物
-    links:
-    - name: 淘宝
-      icon: shopping cart
-      style: orange
-      url: https://www.taobao.com/
-
-    - name: 天猫
-      icon: shopping bag
-      style: red
-      url: https://www.tmall.com/
-
-    - name: 京东
-      icon: warehouse
-      style: red
-      url: https://www.jd.com/
-
-
-    - name: Amazon
-      icon: amazon
-      style: yellow
-      url: https://www.amazon.cn/
-
-    - name: Apple
-      icon: apple
-      style: grey
-      url: https://www.apple.com/
-
-    - name: 严选
-      icon: gift
-      style: basic
-      url: http://you.163.com/
-
-
 #    影视
   - name: 影视
     links:
@@ -248,46 +290,7 @@
       style: green
       url: https://movie.douban.com/
 
-
-
-#    检测
-  - name: 检测
-    links:
-    - name: Ping0
-      icon: dashboard
-      style: black
-      url: https://ping0.cc/
-
-    - name: IPSukka
-      icon: globe
-      style: white
-      url: https://ip.skk.moe
-
-    - name: securitytrails
-      icon: shield
-      style: blue
-      url: https://securitytrails.com/
-
-    - name: IP.SB
-      icon: map marker
-      style: black
-      url: https://ip.sb
-
-    - name: ITDOG
-      icon: desktop
-      style: yellow
-      url: https://www.itdog.cn/http/
-
-    - name: CESU.AI
-      icon: desktop
-      style: purple
-      url: https://www.cesu.ai/http/
-
-    - name: 炸了么
-      icon: desktop
-      style: white
-      url: https://zhale.me/http/
-
+- categories:
 #    服务器
   - name: Server
     links:
@@ -331,53 +334,54 @@
       style: green
       url: https://www.customercontrolpanel.de/start.php
 
-    - name: ping.me
-      icon: signal
-      style: black
-      url: https://port.ping.pe/
-
     - name: Netlify
       icon: cloud upload
       style: black
       url: https://app.netlify.com/account/sites
-
-- categories:
-  - name: dns解析/域名挂靠
+#    购物
+  - name: 购物
     links:
-    - name: CloudFlare
-      icon: cloud
+    - name: 淘宝
+      icon: shopping cart
       style: orange
-      url: https://dash.cloudflare.com/8670cbcae63aab68656e85a736601f64
+      url: https://www.taobao.com/
 
-    - name: 阿里云
-      icon: globe
-      style: orange
-      url: https://dns.console.aliyun.com/?spm=5176.28197678_-617102545.0.0.140b5b8eIvO9Pr#/dns/domainList
+    - name: 天猫
+      icon: shopping bag
+      style: red
+      url: https://www.tmall.com/
 
-    - name: 梦牛网络
-      icon: sitemap
-      style: green
-      url: https://www.mnn.tw/panel/user/index
+    - name: 京东
+      icon: warehouse
+      style: red
+      url: https://www.jd.com/
 
-    - name: DNSpod
-      icon: globe
-      style: blue
-      url: https://cloud.tencent.com/login?s_url=https%3A%2F%2Fcloud.tencent.com%2Flogin%2Fthirdparty-login%3Fs_url%3Dhttps%253A%252F%252Fwww.dnspod.cn%252Flogin_proxy%252Ftencentcloud%253Fs_url%253Dhttp%25253A%25252F%25252Fconsole.dnspod.cn%25252F%2526login_jump%253Dyes%26auth_type%3D1
 
-    - name: GoDaddy
-      icon: globe
-      style: black
-      url: https://account.godaddy.com/products
+    - name: Amazon
+      icon: amazon
+      style: yellow
+      url: https://www.amazon.cn/
 
-    - name: namesilo
-      icon: globe
-      style: blue
-      url: https://www.namesilo.com/account_domains.php
+    - name: Apple
+      icon: apple
+      style: grey
+      url: https://www.apple.com/
 
-    - name: orgs.hk
-      icon: globe
-      style: blue
-      url: http://www.orgs.hk/cn/panel.php
+    - name: 严选
+      icon: gift
+      style: basic
+      url: http://you.163.com/
+
+
+
+
+
+
+
+
+
+
+
 
 
 
