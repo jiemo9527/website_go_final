@@ -299,40 +299,45 @@
       style: yellow
       url: https://bandwagonhost.com/services
 
-    - name: akile
-      icon: cloud
-      style: blue
-      url: https://akile.io/console
-
     - name: RackNerd
       icon: server
       style: blue
       url: https://my.racknerd.com/clientarea.php?action=productdetails&id=384784
 
-    - name: FranTech
-      icon: cloud
-      style: white
-      url: https://my.frantech.ca/clientarea.php?action=services
+    - name: bytevirt
+      icon: server
+      style: green
+      url: https://bytevirt.com/clientarea.php?action=services
+
+    - name: netcup
+      icon: server
+      style: green
+      url: https://www.customercontrolpanel.de/start.php
 
     - name: colocrossing
       icon: cloud
       style: blue
       url: https://cloud.colocrossing.com/clientarea.php?action=productdetails&id=16800
 
+    - name: akile
+      icon: cloud
+      style: blue
+      url: https://akile.io/console
+
     - name: Vkvm
       icon: server
       style: blue
       url: https://www.vkvm.info/clientarea
 
+    - name: FranTech
+      icon: cloud
+      style: white
+      url: https://my.frantech.ca/clientarea.php?action=services
+
     - name: LittleCreek
-      icon: server
+      icon: cloud
       style: white
       url: https://www.littlecreekhosting.com/clients/clientarea.php
-
-    - name: netcup
-      icon: server
-      style: green
-      url: https://www.customercontrolpanel.de/start.php
 
     - name: Netlify
       icon: cloud upload
