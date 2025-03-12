@@ -64,6 +64,11 @@
       style: yellow
       url: https://hf.co/chat/
 
+    - name: pinmx邮箱
+      icon: mail
+      style: white
+      url: https://mail-admin.pinmx.com/#/dashboard
+
     - name: FOFA
       icon: search
       style: green
