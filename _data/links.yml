@@ -64,6 +64,11 @@
       style: yellow
       url: https://hf.co/chat/
 
+    - name: proton邮箱
+      icon: mail
+      style: purple
+      url: https://account.proton.me/zh-cn/mail
+
     - name: pinmx邮箱
       icon: mail
       style: white
