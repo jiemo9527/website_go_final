@@ -334,10 +334,10 @@
       style: blue
       url: https://akile.io/console
 
-    - name: Vkvm
+    - name: Claw
       icon: server
-      style: blue
-      url: https://www.vkvm.info/clientarea
+      style: black
+      url: https://claw.cloud/clientarea.php
 
     - name: FranTech
       icon: cloud
