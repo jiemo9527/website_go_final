@@ -314,25 +314,25 @@
       style: blue
       url: https://my.racknerd.com/clientarea.php?action=productdetails&id=384784
 
-    - name: bytevirt
+    - name: 阿里云
       icon: server
-      style: green
-      url: https://bytevirt.com/clientarea.php?action=services
+      style: orange
+      url: https://home.console.aliyun.com/home/dashboard/ProductAndService
 
     - name: netcup
       icon: server
       style: green
       url: https://www.customercontrolpanel.de/start.php
 
+    - name: bytevirt
+      icon: server
+      style: green
+      url: https://bytevirt.com/clientarea.php?action=services
+
     - name: colocrossing
       icon: cloud
       style: blue
       url: https://cloud.colocrossing.com/clientarea.php?action=productdetails&id=16800
-
-    - name: akile
-      icon: cloud
-      style: blue
-      url: https://akile.io/console
 
     - name: Claw
       icon: server
@@ -343,6 +343,11 @@
       icon: cloud
       style: white
       url: https://my.frantech.ca/clientarea.php?action=services
+
+    - name: Akile
+      icon: cloud
+      style: blue
+      url: https://akile.io/console
 
     - name: LittleCreek
       icon: cloud
