@@ -88,6 +88,11 @@
       style: black
       url: https://speedtest.net/
 
+    - name: 长时间测速
+      icon: chart line
+      style: white
+      url: https://www.jamcz.com/speedtest/
+
     - name: CF测速
       icon: cloud
       style: orange
