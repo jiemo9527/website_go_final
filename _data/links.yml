@@ -17,6 +17,11 @@
       style: blue
       url: https://securitytrails.com/
 
+    - name: viewdns
+      icon: shield
+      style: green
+      url: https://viewdns.info/reverseip/
+
     - name: IP.SB
       icon: map marker
       style: black
