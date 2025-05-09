@@ -317,7 +317,7 @@
     - name: RackNerd
       icon: server
       style: blue
-      url: https://my.racknerd.com/clientarea.php?action=productdetails&id=384784
+      url: https://my.racknerd.com/clientarea.php?action=productdetails&id=451259
 
     - name: 阿里云
       icon: server
