@@ -337,7 +337,7 @@
     - name: colocrossing
       icon: cloud
       style: blue
-      url: https://cloud.colocrossing.com/clientarea.php?action=productdetails&id=16800
+      url: https://cloud.colocrossing.com/clientarea.php?action=productdetails&id=23868
 
     - name: Claw
       icon: server
