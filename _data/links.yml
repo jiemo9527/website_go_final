@@ -160,7 +160,7 @@
     - name: aria2ng
       icon: download
       style: purple
-      url: https://aria2ng.jie02.top
+      url: https://ar.jie02.top
 
     - name: HPWRYF
       icon: server
@@ -172,11 +172,6 @@
       style: white
       url: https://cors.jie02.top
 
-    - name: 捐赠②
-      icon: heart
-      style: blue
-      url: https://donate.jie02.top
-
     - name: duckduckcute
       icon: fa-edit
       style: white
@@ -185,7 +180,7 @@
     - name: 杰尼飞舞公告
       icon: fa-bullhorn
       style: blue
-      url: https://jnfw6.jie02.top
+      url: https://jnfw.jie02.top
 
 - categories:
 #    谷歌
