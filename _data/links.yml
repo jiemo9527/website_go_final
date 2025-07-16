@@ -91,7 +91,7 @@
     - name: speedtest.net
       icon: chart line
       style: black
-      url: https://speedtest.net/
+      url: https://speedtest.net
 
     - name: 长时间测速
       icon: chart line
@@ -102,6 +102,11 @@
       icon: cloud
       style: grey
       url: http://speedtest.im
+
+    - name: 江苏电信测速
+      icon: chart line
+      style: green
+      url: http://speedtest4.jsinfo.net/2000mv6/index.html
 
     - name: 快递网-查快递
       icon: truck
