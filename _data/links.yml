@@ -98,10 +98,10 @@
       style: white
       url: https://www.jamcz.com/speedtest/
 
-    - name: CF测速
+    - name: speedtest.im
       icon: cloud
-      style: orange
-      url: https://speed.cloudflare.com
+      style: grey
+      url: http://speedtest.im
 
     - name: 快递网-查快递
       icon: truck
