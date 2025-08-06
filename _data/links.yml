@@ -172,6 +172,11 @@
       style: green
       url: https://v2.jie02.top
 
+    - name: 杂鸡盒子
+      icon: music
+      style: blue
+      url: https://box.jie02.top
+
     - name: cors
       icon: sync
       style: white
