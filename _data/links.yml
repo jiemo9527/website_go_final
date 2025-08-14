@@ -125,6 +125,11 @@
       style: orange
       url: https://dns.console.aliyun.com/?spm=5176.28197678_-617102545.0.0.140b5b8eIvO9Pr#/dns/domainList
 
+    - name: EdgeOne
+      icon: globe
+      style: blue
+      url: https://console.tencentcloud.com/edgeone/zones
+
     - name: 梦牛网络
       icon: sitemap
       style: green
