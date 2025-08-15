@@ -369,6 +369,11 @@
       style: white
       url: https://www.littlecreekhosting.com/clients/clientarea.php
 
+    - name: Vercel
+      icon: cloud upload
+      style: black
+      url: https://vercel.com/
+
     - name: Netlify
       icon: cloud upload
       style: black
