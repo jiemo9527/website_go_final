@@ -165,7 +165,7 @@
     - name: Alist
       icon: list
       style: green
-      url: https://alist.jie02.top
+      url: https://olist.jie02.top
 
     - name: aria2ng
       icon: download
