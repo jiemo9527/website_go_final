@@ -2,10 +2,35 @@
 #    检测
   - name: 检测
     links:
+    - name: IPLark
+      icon: dashboard
+      style: blue
+      url: https://iplark.com
+
+    - name: IPzerosla
+      icon: dashboard
+      style: purple
+      url: https://ip.zerosla.net
+
+    - name: TechQuery
+      icon: dashboard
+      style: blue
+      url: https://ip.tsy.ink
+
+    - name: IPovo
+      icon: dashboard
+      style: grey
+      url: https://ip.ovo.lol
+
     - name: Ping0
       icon: dashboard
       style: black
       url: https://ping0.cc/
+
+    - name: IP.SB
+      icon: map marker
+      style: black
+      url: https://ip.sb
 
     - name: IPSukka
       icon: globe
@@ -16,16 +41,6 @@
       icon: shield
       style: blue
       url: https://securitytrails.com/
-
-    - name: viewdns
-      icon: shield
-      style: green
-      url: https://viewdns.info/reverseip/
-
-    - name: IP.SB
-      icon: map marker
-      style: black
-      url: https://ip.sb
 
     - name: ITDOG
       icon: desktop
