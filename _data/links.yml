@@ -7,11 +7,6 @@
       style: blue
       url: https://iplark.com
 
-    - name: IPzerosla
-      icon: dashboard
-      style: purple
-      url: https://ip.zerosla.net
-
     - name: TechQuery
       icon: dashboard
       style: blue
@@ -45,7 +40,7 @@
     - name: ITDOG
       icon: desktop
       style: yellow
-      url: https://www.itdog.cn/http/
+      url: https://www.itdog.cn/localhost/
 
     - name: CESU.AI
       icon: desktop
