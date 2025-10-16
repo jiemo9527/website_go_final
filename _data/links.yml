@@ -354,6 +354,11 @@
       style: green
       url: https://www.customercontrolpanel.de/start.php
 
+    - name: vmrack
+      icon: server
+      style: blue
+      url: https://console.vmrack.net/vps-hosting
+
     - name: bytevirt
       icon: server
       style: green
