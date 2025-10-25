@@ -7,16 +7,6 @@
       style: blue
       url: https://iplark.com
 
-    - name: TechQuery
-      icon: dashboard
-      style: blue
-      url: https://ip.tsy.ink
-
-    - name: IPovo
-      icon: dashboard
-      style: grey
-      url: https://ip.ovo.lol
-
     - name: Ping0
       icon: dashboard
       style: black
