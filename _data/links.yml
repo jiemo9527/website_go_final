@@ -339,6 +339,11 @@
       style: green
       url: https://www.customercontrolpanel.de/start.php
 
+    - name: HostDZire
+      icon: server
+      style: white
+      url: https://hostdzire.com/billing/clientarea.php?action=productdetails&id=118584
+
     - name: vmrack
       icon: server
       style: blue
