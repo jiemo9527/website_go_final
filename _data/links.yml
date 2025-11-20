@@ -342,7 +342,7 @@
     - name: HostDZire
       icon: server
       style: white
-      url: https://hostdzire.com/billing/clientarea.php?action=productdetails&id=118584
+      url: https://hostdzire.com/billing/clientarea.php?action=services
 
     - name: vmrack
       icon: server
