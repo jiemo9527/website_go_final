@@ -152,8 +152,13 @@
 
     - name: orgs.hk
       icon: globe
-      style: blue
+      style: white
       url: http://www.orgs.hk/cn/panel.php
+
+    - name: 哪煮米
+      icon: globe
+      style: blue
+      url: https://www.nazhumi.com/
 #    专属
   - name: web服务
     links:
