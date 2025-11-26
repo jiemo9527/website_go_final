@@ -150,6 +150,11 @@
       style: blue
       url: https://www.namesilo.com/account_domains.php
 
+    - name: spaceship
+      icon: globe
+      style: black
+      url: https://www.spaceship.com/application/advanced-dns-application/
+
     - name: orgs.hk
       icon: globe
       style: white
