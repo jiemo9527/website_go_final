@@ -22,6 +22,11 @@
       style: white
       url: https://ip.skk.moe
 
+    - name: VirusTotal
+      icon:  biohazard
+      style: black
+      url: https://www.virustotal.com/gui/home/upload
+
     - name: securitytrails
       icon: shield
       style: blue
