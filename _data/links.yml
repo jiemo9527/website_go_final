@@ -23,7 +23,7 @@
       url: https://ip.skk.moe
 
     - name: VirusTotal
-      icon:  biohazard
+      icon:  stethoscope
       style: black
       url: https://www.virustotal.com/gui/home/upload
 
