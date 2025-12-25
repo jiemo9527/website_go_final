@@ -374,10 +374,10 @@
       style: blue
       url: https://cloud.colocrossing.com/clientarea.php?action=productdetails&id=23868
 
-    - name: Claw
+    - name: Nube
       icon: server
-      style: black
-      url: https://claw.cloud/clientarea.php
+      style: white
+      url: https://tyo-console.nube.sh/zh-cn/10007829/10008752/vm/list
 
     - name: FranTech
       icon: cloud
