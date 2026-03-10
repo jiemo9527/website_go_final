@@ -203,12 +203,12 @@
       url: https://cors.jie02.top
 
     - name: duckduckcute
-      icon: fa-edit
+      icon: edit
       style: white
       url: https://duckduckcute.jie02.top
 
     - name: 杰尼飞舞公告
-      icon: fa-bullhorn
+      icon: bullhorn
       style: blue
       url: https://jnfw.jie02.top
 
