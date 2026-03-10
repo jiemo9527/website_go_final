@@ -60,7 +60,7 @@
       url: https://api.gptnb.ai/token
 
     - name: 小云雀
-      icon: bird
+      icon: twitter
       style: white
       url: https://xyq.jianying.com/home?from_page=xiaoyunque_landing_page&tab_name=home
 
