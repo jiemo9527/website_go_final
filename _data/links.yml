@@ -67,12 +67,12 @@
     - name: Openai
       icon: comments
       style: black
-      url: https://chat.openai.com/chat
+      url: https://chatgpt.com/chat
 
     - name: HuggingFace
       icon: smile
       style: yellow
-      url: https://hf.co/chat/
+      url: https://huggingface.co/chat/
 
     - name: pinmx邮箱
       icon: mail
@@ -97,11 +97,6 @@
       icon: chart line
       style: black
       url: https://speedtest.net
-
-    - name: 长时间测速
-      icon: chart line
-      style: white
-      url: https://www.jamcz.com/speedtest/
 
     - name: speedtest.im
       icon: cloud
@@ -249,7 +244,7 @@
     - name: Google应用
       icon: th
       style: blue
-      url: https://chrome.google.com/webstore/category/extensions?hl=zh
+      url: https://chromewebstore.google.com/category/extensions?hl=zh
 
     - name: Google Voice
       icon: phone
@@ -276,7 +271,7 @@
     - name: 一加社区
       icon: users
       style: red
-      url: https://www.oneplusbbs.com/forum-118-1.html
+      url: https://bbs.oneplus.com/
 
     - name: 百度贴吧
       icon: paw
@@ -303,7 +298,7 @@
     - name: Youtube
       icon: youtube
       style: red
-      url: https://youtube.com/
+      url: https://www.youtube.com/
 
     - name: bilibili
       icon: video
@@ -435,7 +430,7 @@
     - name: 严选
       icon: gift
       style: basic
-      url: http://you.163.com/
+      url: https://you.163.com/
 
 
 
