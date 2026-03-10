@@ -59,10 +59,10 @@
       style: white
       url: https://api.gptnb.ai/token
 
-    - name: ocoolAI
-      icon: cogs
-      style: purple
-      url: https://one.ooo.cool
+    - name: 小云雀
+      icon: bird
+      style: white
+      url: https://xyq.jianying.com/home?from_page=xiaoyunque_landing_page&tab_name=home
 
     - name: Openai
       icon: comments
