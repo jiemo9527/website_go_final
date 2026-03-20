@@ -263,6 +263,11 @@
       style: blue
       url: https://linux.do
 
+    - name: NodeSeek
+      icon: comments
+      style: black
+      url: https://www.nodeseek.com
+
     - name: 恩山论坛
       icon: comments
       style: blue
@@ -272,11 +277,6 @@
       icon: unlock
       style: pink
       url: https://www.52pojie.cn/
-
-    - name: 一加社区
-      icon: users
-      style: red
-      url: https://bbs.oneplus.com/
 
     - name: 百度贴吧
       icon: paw
