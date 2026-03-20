@@ -253,10 +253,15 @@
 #    社交
   - name: 社交
     links:
-    - name: 微博
-      icon: weibo
+    - name: IDCFlare
+      icon: comments
       style: red
-      url: https://weibo.com/
+      url: https://idcflare.com
+
+    - name: LINUXDO
+      icon: comments
+      style: blue
+      url: https://linux.do
 
     - name: 恩山论坛
       icon: comments
