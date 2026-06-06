@@ -203,43 +203,18 @@
       url: https://jnfw.jie02.top
 
 - categories:
-#    谷歌
-  - name: 谷歌
+#    call&sms
+  - name: Call&SMS
     links:
-    - name: Google
-      icon: google
+    - name: esimgg
+      icon: phone
+      style: blue
+      url: https://esim.gg/lines
+
+    - name: NexSMS
+      icon: phone
       style: white
-      url: https://www.google.com
-
-    - name: 谷歌翻译
-      icon: language
-      style: blue
-      url: https://translate.google.com/?sl=auto&tl=en&op=translate
-
-    - name: Google Drive
-      icon: cloud
-      style: green
-      url: https://drive.google.com
-
-    - name: Google Script
-      icon: code
-      style: orange
-      url: https://script.google.com
-
-    - name: Gmail
-      icon: envelope
-      style: red
-      url: https://mail.google.com
-
-    - name: Google相册
-      icon: images
-      style: grey
-      url: https://photos.google.com
-
-    - name: Google应用
-      icon: th
-      style: blue
-      url: https://chromewebstore.google.com/category/extensions?hl=zh
+      url: https://user.nexsms.net/#/dashboard
 
     - name: Google Voice
       icon: phone
