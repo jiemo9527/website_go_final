@@ -211,6 +211,11 @@
       style: blue
       url: https://esim.gg/lines
 
+    - name: cmlink实体
+      icon: phone
+      style: white
+      url: https://www.cmlink.com/uk/zh/
+
     - name: kitesim
       icon: phone
       style: orange
