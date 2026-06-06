@@ -211,6 +211,11 @@
       style: blue
       url: https://esim.gg/lines
 
+    - name: eskimo
+      icon: phone
+      style: blue
+      url: https://www.eskimo.travel/cn/data-balance
+
     - name: NexSMS
       icon: phone
       style: white
