@@ -211,20 +211,20 @@
       style: blue
       url: https://esim.gg/lines
 
-    - name: cmlink实体
+    - name: giffgaff
       icon: phone
-      style: white
-      url: https://www.cmlink.com/uk/zh/
-
-    - name: kitesim
-      icon: phone
-      style: orange
-      url: https://h5.kitesim.co/
+      style: black
+      url: https://www.giffgaff.com/profile/payment-details
 
     - name: eskimo
       icon: phone
       style: blue
       url: https://www.eskimo.travel/cn/data-balance
+
+    - name: kitesim
+      icon: phone
+      style: orange
+      url: https://h5.kitesim.co/
 
     - name: NexSMS
       icon: phone
@@ -235,6 +235,11 @@
       icon: phone
       style: green
       url: https://voice.google.com/
+
+    - name: cmlink
+      icon: phone
+      style: white
+      url: https://www.cmlink.com/uk/zh/
 #    社交
   - name: 社交
     links:
