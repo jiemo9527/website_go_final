@@ -211,6 +211,11 @@
       style: blue
       url: https://esim.gg/lines
 
+    - name: kitesim
+      icon: phone
+      style: orange
+      url: https://h5.kitesim.co/
+
     - name: eskimo
       icon: phone
       style: blue
