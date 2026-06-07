@@ -8,7 +8,7 @@
       url: https://iplark.com
 
     - name: Ping0
-      icon: dashboard
+      icon: crosshairs
       style: black
       url: https://ping0.cc/
 
@@ -38,12 +38,12 @@
       url: https://www.itdog.cn/localhost/
 
     - name: CESU.AI
-      icon: desktop
+      icon: stopwatch
       style: purple
       url: https://www.cesu.ai/http/
 
     - name: 炸了么
-      icon: desktop
+      icon: heartbeat
       style: white
       url: https://zhale.me/http/
 
@@ -54,30 +54,15 @@
 #    工具
   - name: 工具
     links:
-    - name: GPTNB
-      icon: lightbulb
-      style: white
-      url: https://api.gptnb.ai/token
-
-    - name: 小云雀
-      icon: twitter
-      style: white
-      url: https://xyq.jianying.com/home?from_page=xiaoyunque_landing_page&tab_name=home
-
-    - name: Openai
-      icon: comments
-      style: black
-      url: https://chatgpt.com/chat
-
-    - name: HuggingFace
-      icon: smile
-      style: yellow
-      url: https://huggingface.co/chat/
-
     - name: pinmx邮箱
       icon: mail
       style: white
       url: https://mail-admin.pinmx.com/#/dashboard
+
+    - name: random-hex
+      icon: hashtag
+      style: black
+      url: https://www.lddgo.net/string/random-hex
 
     - name: FOFA
       icon: search
@@ -94,17 +79,17 @@
       url: https://www.speedtest.cn
 
     - name: speedtest.net
-      icon: chart line
+      icon: tachometer alternate
       style: black
       url: https://speedtest.net
 
     - name: speedtest.im
-      icon: cloud
+      icon: wifi
       style: grey
       url: http://speedtest.im
 
     - name: 江苏电信测速
-      icon: chart line
+      icon: chart bar
       style: green
       url: http://speedtest4.jsinfo.net/2000mv6/index.html
 
@@ -121,12 +106,12 @@
       url: https://dash.cloudflare.com/8670cbcae63aab68656e85a736601f64
 
     - name: 阿里云
-      icon: globe
+      icon: cloud
       style: orange
       url: https://dns.console.aliyun.com/?spm=5176.28197678_-617102545.0.0.140b5b8eIvO9Pr#/dns/domainList
 
     - name: EdgeOne
-      icon: globe
+      icon: shield alternate
       style: blue
       url: https://console.tencentcloud.com/edgeone/zones
 
@@ -136,32 +121,32 @@
       url: https://www.mnn.tw/panel/user/index
 
     - name: DNSpod
-      icon: globe
+      icon: code branch
       style: blue
       url: https://cloud.tencent.com/login?s_url=https%3A%2F%2Fcloud.tencent.com%2Flogin%2Fthirdparty-login%3Fs_url%3Dhttps%253A%252F%252Fwww.dnspod.cn%252Flogin_proxy%252Ftencentcloud%253Fs_url%253Dhttp%25253A%25252F%25252Fconsole.dnspod.cn%25252F%2526login_jump%253Dyes%26auth_type%3D1
 
     - name: GoDaddy
-      icon: globe
+      icon: certificate
       style: black
       url: https://account.godaddy.com/products
 
     - name: namesilo
-      icon: globe
+      icon: tags
       style: blue
       url: https://www.namesilo.com/account_domains.php
 
     - name: spaceship
-      icon: globe
+      icon: rocket
       style: black
       url: https://www.spaceship.com/application/advanced-dns-application/
 
     - name: orgs.hk
-      icon: globe
+      icon: building
       style: white
       url: http://www.orgs.hk/cn/panel.php
 
     - name: 哪煮米
-      icon: globe
+      icon: tag
       style: blue
       url: https://www.nazhumi.com/
 #    专属
@@ -207,59 +192,59 @@
   - name: Call&SMS
     links:
     - name: esimgg
-      icon: phone
+      icon: mobile alternate
       style: blue
       url: https://esim.gg/lines
 
     - name: giffgaff
-      icon: phone
+      icon: phone square
       style: black
       url: https://www.giffgaff.com/profile/payment-details
 
     - name: eskimo
-      icon: phone
+      icon: snowflake
       style: blue
       url: https://www.eskimo.travel/cn/data-balance
 
     - name: kitesim
-      icon: phone
+      icon: paper plane
       style: orange
       url: https://h5.kitesim.co/
 
     - name: NexSMS
-      icon: phone
+      icon: comment alternate
       style: white
       url: https://user.nexsms.net/#/dashboard
 
     - name: Google Voice
-      icon: phone
+      icon: google
       style: green
       url: https://voice.google.com/
 
     - name: cmlink
-      icon: phone
+      icon: signal
       style: white
       url: https://www.cmlink.com/uk/zh/
 #    社交
   - name: 社交
     links:
     - name: IDCFlare
-      icon: comments
+      icon: fire
       style: red
       url: https://idcflare.com
 
     - name: LINUXDO
-      icon: comments
+      icon: discourse
       style: blue
       url: https://linux.do
 
     - name: NodeSeek
-      icon: comments
+      icon: users
       style: black
       url: https://www.nodeseek.com
 
     - name: 恩山论坛
-      icon: comments
+      icon: microchip
       style: blue
       url: https://www.right.com.cn/forum/forum.php
 
@@ -296,27 +281,27 @@
       url: https://www.youtube.com/
 
     - name: bilibili
-      icon: video
+      icon: play circle
       style: blue
       url: https://www.bilibili.com
 
     - name: mini4k
-      icon: video
+      icon: tv
       style: white
       url: https://www.mini4k.net/node
 
     - name: SubHD字幕
-      icon: film
+      icon: closed captioning
       style: blue
       url: https://subhd.tv/sub/toptv
 
     - name: 字幕库
-      icon: film
+      icon: file alternate
       style: blue
       url: https://zimuku.org
 
     - name: 豆瓣
-      icon: film
+      icon: star
       style: green
       url: https://movie.douban.com/
 
@@ -325,47 +310,47 @@
   - name: Server
     links:
     - name: 搬瓦工
-      icon: server
+      icon: box
       style: yellow
       url: https://bandwagonhost.com/services
 
     - name: RackNerd
-      icon: server
+      icon: hdd
       style: blue
       url: https://my.racknerd.com/clientarea.php?action=productdetails&id=451259
 
     - name: 阿里云
-      icon: server
+      icon: cloud
       style: orange
       url: https://home.console.aliyun.com/home/dashboard/ProductAndService
 
     - name: netcup
-      icon: server
+      icon: cube
       style: green
       url: https://www.customercontrolpanel.de/start.php
 
     - name: HostDZire
-      icon: server
+      icon: hotel
       style: white
       url: https://hostdzire.com/billing/clientarea.php?action=services
 
     - name: vmrack
-      icon: server
+      icon: desktop
       style: blue
       url: https://console.vmrack.net/vps-hosting
 
     - name: bytevirt
-      icon: server
+      icon: microchip
       style: green
       url: https://bytevirt.com/clientarea.php?action=services
 
     - name: colocrossing
-      icon: cloud
+      icon: building
       style: blue
       url: https://cloud.colocrossing.com/clientarea.php?action=productdetails&id=23868
 
     - name: Nube
-      icon: server
+      icon: cloud
       style: white
       url: https://tyo-console.nube.sh/zh-cn/10007829/10008752/vm/list
 
@@ -375,12 +360,12 @@
       url: https://my.frantech.ca/clientarea.php?action=services
 
     - name: Akile
-      icon: cloud
+      icon: rocket
       style: blue
       url: https://akile.io/console
 
     - name: LittleCreek
-      icon: cloud
+      icon: tree
       style: white
       url: https://www.littlecreekhosting.com/clients/clientarea.php
 
@@ -390,7 +375,7 @@
       url: https://vercel.com/
 
     - name: Netlify
-      icon: cloud upload
+      icon: upload
       style: black
       url: https://app.netlify.com/account/sites
 #    购物
