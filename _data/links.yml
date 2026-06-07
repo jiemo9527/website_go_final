@@ -182,10 +182,10 @@
       style: white
       url: https://duckduckcute.jie02.top
 
-    - name: 杰尼飞舞公告
-      icon: bullhorn
-      style: blue
-      url: https://jnfw.jie02.top
+#    - name: 杰尼飞舞公告
+#      icon: bullhorn
+#      style: blue
+#      url: https://jnfw.jie02.top
 
 - categories:
 #    call&sms
@@ -309,7 +309,7 @@
 #    服务器
   - name: Server
     links:
-    - name: 搬瓦工
+    - name: bandwagon
       icon: box
       style: yellow
       url: https://bandwagonhost.com/services
