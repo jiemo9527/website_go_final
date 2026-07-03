@@ -309,6 +309,11 @@
 #    服务器
   - name: Server
     links:
+    - name: B2
+      icon: box
+      style: red
+      url: https://secure.backblaze.com/b2_buckets.htm
+
     - name: bandwagon
       icon: box
       style: yellow
