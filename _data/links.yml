@@ -7,6 +7,11 @@
       style: blue
       url: https://iplark.com
 
+    - name: ipsuper
+      icon: globe
+      style: green
+      url: https://ipsuper.com
+
     - name: Ping0
       icon: crosshairs
       style: black
